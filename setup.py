@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(name='oao25',
       description='observing with adaptive optics school',
-      version='0.1',
+      version='0.1.1',
       long_description="Observing with Adaptive Optics summer school 2024",
       url='',
       license='MIT',
